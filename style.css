@@ -4,6 +4,11 @@
     font: roboto;
 }
 
+.navbar img {
+    width: 100px;
+    height: 100px;
+}
+
 .intro-paragraph h1{
     font-size: 48px;
     color: #F9FAF8;
@@ -64,9 +69,14 @@
 }
 
 button {
-    width: 100px;
+    width: 130px;
     background-color: #3882f6;
     color: white;
+    border-radius: 5px;
+    border: 0px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .intro-paragraph {
